@@ -5,7 +5,6 @@ A top-down action RPG built entirely from scratch using **Core Java**, **Swing**
 **I engineered this project during Grade 11** to challenge myself and deepen my understanding of computer science fundamentals. While I could have used a pre-made engine like Unity, I chose to build the rendering pipeline, physics system, and game loop manually. This approach allowed me to master **Object-Oriented Programming (OOP)** and **algorithm design** at a young age, laying a strong foundation for my software engineering skills.
 
 ![Game Screenshot](assets/game_pic.png)
-*(Note: Replace the text above with a relative path to an image in your repo)*
 
 ## 🎓 Core Concepts Mastered
 
