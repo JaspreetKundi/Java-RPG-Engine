@@ -1,0 +1,14 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore the build folder (if your IDE creates one)
+build/
+dist/
+
+# Ignore NetBeans specific files (since your code comments show you used NetBeans)
+nbproject/
+nb-configuration.xml
+
+# Ignore Mac/Windows system files that often sneak in
+.DS_Store
+Thumbs.db
